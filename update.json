@@ -2,6 +2,11 @@
   "version_code": 2,
   "version_name": "2.0",
   "apk_url": "https://www.mediafire.com/file/yqbfc9gde0fmntt/Matrix_Virtual_v2.0+[+UPDATE+].apk/file",
-  "changelog": "• New VIP mod features\n• Performance & Anti-ban updates",
+  "changelog": "What's New in v2.0:
+- Fixed startup & splash-to-game crashes for smoother 64-bit launch
+- Mod menu now opens only inside Real Cricket (hidden in Play Store)
+- Removed duplicate debug overlay; single Akhil Mods Vip RC20 V6.3 menu active
+- Fixed "Locked" status badge to show "Unlocked" immediately after login
+- Added automatic OBB sync, Google Play sign-in support, and live OTA updates",
   "force": false
 }
